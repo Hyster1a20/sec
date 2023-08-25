@@ -1,3 +1,4 @@
+#psw loo
 password = input("password : ")
 while password != 'example' and count<3 :
     print("access denied")
